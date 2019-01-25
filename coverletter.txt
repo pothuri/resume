@@ -8,7 +8,7 @@ Over the course of my career as a Technical Specialist I have:
     certified ITIL Foundation
     certified Agile Scrum Master & Product Owner
     certified Prince2  Project Management Practitioner 
-    Trained in technologies like Hadoop,REDHAT 7,AWS,Ansible,Git,Maven,Kubernetes,Docker,Jenkins,ELK Stack 
+    Trained in technologies like Hadoop,REDHAT 7,AWS,Ansible,Git,Maven,Kubernetes,Docker,Jenkins,ELK stack,cloudwatch
 
 
 I truly believe in continued education and research, and continue to seek new software and methods to assist with product development. I hope to bring my knowledge, and future knowledge, to your organization.
