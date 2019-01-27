@@ -10,9 +10,8 @@ https://hortonworks.com/products/data-platforms/dataplane/streams-messaging-mana
 https://hortonworks.com/webinar/improve-big-data-workloads-apache-hadoop-3-containerization/
 https://stackoverflow.com/questions/44178432/difference-between-compact-strings-and-compressed-strings-in-java-9/44179353
 https://twitter.com/Whizlabs
-https://twitter.com/Whizlabs/status/1060433247262384128
-https://twitter.com/Whizlabs/status/1064882304923942913
-https://twitter.com/home
+https://www.whizlabs.com/blog/big-data-myths-facts/
+https://www.whizlabs.com/blog/aws-database-interview-questions/
 https://www.databasestar.com/jdbc-in-java/
 https://www.e4developer.com/2018/09/15/please-stop-writing-so-many-for-loops-in-java/
 https://www.humblebundle.com/books/learn-you-some-code-books
