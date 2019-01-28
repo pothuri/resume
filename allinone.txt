@@ -3598,4 +3598,9 @@ http://linuxpitstop.com/chroot-ssh-users-on-centos-7/
 http://linuxpitstop.com/rabbitmq-cluster-on-centos-7/
 http://linuxpitstop.com/10-linux-commands-to-monitor-your-systems-health/
 http://linuxpitstop.com/install-bugzilla-5-0-on-ubuntu-linux-15-04/
-
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+https://devopscube.com/kubernetes-certification-coupon/
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
+https://www.katacoda.com/
+https://devopscube.com/kubernetes-certification-tips/
