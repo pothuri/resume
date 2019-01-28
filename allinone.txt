@@ -1,5 +1,4 @@
-
-//www.cyberciti.biz/faq/install-firefox3tarbz2-linux/
+www.cyberciti.biz/faq/install-firefox3tarbz2-linux/
 http://askubuntu.com/questions/469143/how-to-enable-ssh-root-access-on-ubuntu-14-04
 http://five.agency/java-heap-dump/
 http://linoxide.com/ubuntu-how-to/install-setup-rabbitmq-ubuntu-16-04/
