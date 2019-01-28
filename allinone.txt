@@ -3605,4 +3605,3 @@ https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 https://www.katacoda.com/
 https://devopscube.com/kubernetes-certification-tips/
 https://kubernetes.io/docs/setup/pick-right-solution/
-
