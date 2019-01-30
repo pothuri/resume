@@ -1,4 +1,4 @@
-www.cyberciti.biz/faq/install-firefox3tarbz2-linux/
+http://www.cyberciti.biz/faq/install-firefox3tarbz2-linux/
 http://askubuntu.com/questions/469143/how-to-enable-ssh-root-access-on-ubuntu-14-04
 http://five.agency/java-heap-dump/
 http://linoxide.com/ubuntu-how-to/install-setup-rabbitmq-ubuntu-16-04/
@@ -3604,4 +3604,3 @@ https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 https://www.katacoda.com/
 https://devopscube.com/kubernetes-certification-tips/
-https://kubernetes.io/docs/setup/pick-right-solution/
