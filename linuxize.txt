@@ -269,7 +269,6 @@ https://www.thegeekstuff.com/2017/01/signtool-examples/
 https://www.thegeekstuff.com/2017/01/secure-docker-registry/
 https://www.thegeekstuff.com/2017/01/nginx-loadbalancer/
 https://www.thegeekstuff.com/2017/01/mirthconnect-install-linux/
-https://www.thegeekstuff.com/2017/01/happy-new-year-2017/
 https://www.thegeekstuff.com/2017/01/gnu-binutils-commands/
 https://www.thegeekstuff.com/2017/01/create-database-oracle/
 https://www.thegeekstuff.com/2017/01/cpp-stl-queue/
@@ -309,7 +308,6 @@ https://www.thegeekstuff.com/2016/04/chromebook-keyboard-shortcuts/
 https://www.thegeekstuff.com/2016/04/chef-knife-cookbook-command/
 https://www.thegeekstuff.com/2016/04/aws-ec2-cli-examples/
 https://www.thegeekstuff.com/2016/03/vmware-esxi-datastore-iso-file/
-https://www.thegeekstuff.com/2016/03/nikon-dslr-wireless/
 https://www.thegeekstuff.com/2016/03/iscsi-target-setup/
 https://www.thegeekstuff.com/2016/03/forcefsck-on-reboot/
 https://www.thegeekstuff.com/2016/03/drown-attack-test-and-fix/
@@ -325,10 +323,8 @@ https://www.thegeekstuff.com/2016/02/docker-machine-create-generic/
 https://www.thegeekstuff.com/2016/02/cups-admin-ui-access/
 https://www.thegeekstuff.com/2016/02/c-plus-plus-11/
 https://www.thegeekstuff.com/2016/02/aws-storage-and-db/
-https://www.thegeekstuff.com/2016/02/apple-iphone-fbi/
 https://www.thegeekstuff.com/2016/01/load-balancer-intro/
 https://www.thegeekstuff.com/2016/01/install-lxc-linux-containers/
-https://www.thegeekstuff.com/2016/01/happy-new-year-2016/
 https://www.thegeekstuff.com/2016/01/create-lxc-containers/
 https://www.thegeekstuff.com/2015/11/zfs-filesystem-compression/
 https://www.thegeekstuff.com/2015/10/php-mongodb-for-xampp/
@@ -354,7 +350,6 @@ https://www.thegeekstuff.com/2015/01/openldap-linux/
 https://www.thegeekstuff.com/2015/01/lpadmin-examples/
 https://www.thegeekstuff.com/2015/01/la-workshop-in-feb/
 https://www.thegeekstuff.com/2015/01/la-linux-sysadmin-workshop-in-mar/
-https://www.thegeekstuff.com/2015/01/happy-new-year-2015/
 https://www.thegeekstuff.com/2015/01/dell-w1228-raid-battery-error/
 https://www.thegeekstuff.com/2015/01/delete-oracle-rman-backup/
 https://www.thegeekstuff.com/2015/01/c-cpp-code-optimization/
@@ -397,16 +392,13 @@ https://www.thegeekstuff.com/2014/07/hpacucli-examples/
 https://www.thegeekstuff.com/2014/07/debug-javascript/
 https://www.thegeekstuff.com/2014/07/cpp-inheritance-abstract-class/
 https://www.thegeekstuff.com/2014/07/cisco-mds-commands/
-https://www.thegeekstuff.com/2014/07/bay-area-sysadmin-workshop-early-bird/
 https://www.thegeekstuff.com/2014/07/advanced-python-regex/
 https://www.thegeekstuff.com/2014/06/samba-backup/
 https://www.thegeekstuff.com/2014/06/python-sorted/
-https://www.thegeekstuff.com/2014/06/linux-sysadmin-workshop-in-bay-area/
 https://www.thegeekstuff.com/2014/06/linux-ntp-server-client/
 https://www.thegeekstuff.com/2014/06/linux-etherchannel-bonding/
 https://www.thegeekstuff.com/2014/06/linux-custom-keybindings/
 https://www.thegeekstuff.com/2014/06/js-singleton-design-pattern/
-https://www.thegeekstuff.com/2014/06/happy-6th-birthday-to-the-geek-stuff/
 https://www.thegeekstuff.com/2014/06/cpp-convert-datatypes/
 https://www.thegeekstuff.com/2014/06/android-vpn-service/
 https://www.thegeekstuff.com/2014/05/wireshark-file-buffer-size/
@@ -442,7 +434,6 @@ https://www.thegeekstuff.com/2014/03/import-export-vm-hyper-v/
 https://www.thegeekstuff.com/2014/03/git-patch-create-and-apply/
 https://www.thegeekstuff.com/2014/03/fibonacci-number-algorithm/
 https://www.thegeekstuff.com/2014/03/few-gdb-commands/
-https://www.thegeekstuff.com/2014/03/develop-facebook-app/
 https://www.thegeekstuff.com/2014/03/cpp-prime-number-checker/
 https://www.thegeekstuff.com/2014/03/calculate-median/
 https://www.thegeekstuff.com/2014/03/apparmor-ubuntu/
@@ -466,11 +457,9 @@ https://www.thegeekstuff.com/2014/02/android-asynctask/
 https://www.thegeekstuff.com/2014/01/virtualization-intro/
 https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/
 https://www.thegeekstuff.com/2014/01/mysql-nodejs-intro/
-https://www.thegeekstuff.com/2014/01/mac-osx-port-command/
 https://www.thegeekstuff.com/2014/01/linux-sysadmin-books/
 https://www.thegeekstuff.com/2014/01/linux-interrupts/
 https://www.thegeekstuff.com/2014/01/install-dns-server/
-https://www.thegeekstuff.com/2014/01/happy-new-year-2014/
 https://www.thegeekstuff.com/2014/01/gdb-backtrace/
 https://www.thegeekstuff.com/2014/01/create-oracle-ovm-vm-from-iso/
 https://www.thegeekstuff.com/2014/01/cpp-binary-exercise/
@@ -483,7 +472,6 @@ https://www.thegeekstuff.com/2013/12/nagios-plugins-rabbitmq/
 https://www.thegeekstuff.com/2013/12/install-zenoss-core/
 https://www.thegeekstuff.com/2013/12/dns-basics/
 https://www.thegeekstuff.com/2013/12/bash-completion-complete/
-https://www.thegeekstuff.com/2013/12/android-app-menus/
 https://www.thegeekstuff.com/2013/11/write-an-android-app/
 https://www.thegeekstuff.com/2013/11/smartphone-mistakes/
 https://www.thegeekstuff.com/2013/11/reverse-ssh-tunnel/
@@ -526,7 +514,6 @@ https://www.thegeekstuff.com/2013/08/cpp-inheritance/
 https://www.thegeekstuff.com/2013/08/c-struct-union-bit-field/
 https://www.thegeekstuff.com/2013/07/write-linux-kernel-module/
 https://www.thegeekstuff.com/2013/07/linux-process-life-cycle/
-https://www.thegeekstuff.com/2013/07/happy-5th-birthday-to-the-geek-stuff/
 https://www.thegeekstuff.com/2013/06/python-list/
 https://www.thegeekstuff.com/2013/06/dell-bios-settings/
 https://www.thegeekstuff.com/2013/06/cut-command-examples/
@@ -569,7 +556,6 @@ https://www.thegeekstuff.com/2013/01/mount-umount-examples/
 https://www.thegeekstuff.com/2013/01/mke2fs-examples/
 https://www.thegeekstuff.com/2013/01/mix-c-and-cpp/
 https://www.thegeekstuff.com/2013/01/install-mongodb/
-https://www.thegeekstuff.com/2013/01/happy-new-year-2013/
 https://www.thegeekstuff.com/2013/01/diffie-hellman-key-exchange-algorithm/
 https://www.thegeekstuff.com/2013/01/control-conditions-in-c/
 https://www.thegeekstuff.com/2013/01/c-argc-argv/
