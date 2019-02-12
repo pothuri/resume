@@ -1,3 +1,4 @@
+https://dzone.com/articles/setup-jenkins-ci-in-30-minutes
 https://linuxize.com/post/bash-for-loop/
 https://linuxize.com/post/bash-functions/
 https://linuxize.com/post/bash-while-loop/
