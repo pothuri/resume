@@ -243,7 +243,6 @@ https://linuxize.com/post/secure-nginx-with-let-s-encrypt-on-ubuntu-18-04/
 https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/
 https://linuxize.com/post/wget-command-examples/
 https://www.thegeekstuff.com/2018/05/ruby-loop-examples/
-https://www.thegeekstuff.com/2018/01/happy-new-year-2018/
 https://www.thegeekstuff.com/2017/10/389-ldap-client/
 https://www.thegeekstuff.com/2017/08/nginx-rewrite-examples/
 https://www.thegeekstuff.com/2017/08/mysqlbinlog-examples/
